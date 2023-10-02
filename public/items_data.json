@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "Espresso",
+      "description": "A concentrated coffee brewed by forcing a small amount of nearly boiling water through finely-ground coffee beans.",
+      "price": 2.50,
+      "image": "https://i.ibb.co/zsST57x/Espresso.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cappuccino",
+      "description": "A coffee drink that is composed of espresso and steamed milk, with a layer of frothed milk on top.",
+      "price": 3.00,
+      "image": "https://i.ibb.co/n7KVCBH/Cappuccino.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Latte",
+      "description": "A coffee drink made with espresso and steamed milk. It's often topped with a small amount of milk foam.",
+      "price": 3.25,
+      "image": "https://i.ibb.co/z6njgYT/latte.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mocha",
+      "description": "A coffee drink that combines espresso with hot milk and cocoa powder, often topped with whipped cream.",
+      "price": 3.50,
+      "image": "https://i.ibb.co/C7MzHR2/mocha.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Iced Americano",
+      "description": "A refreshing coffee drink made by diluting espresso with cold water and served over ice.",
+      "price": 2.75,
+      "image": "https://i.ibb.co/YZgwPRk/Iced-Americano.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Caramel Macchiato",
+      "description": "An espresso-based coffee with steamed milk, vanilla syrup, and caramel drizzle.",
+      "price": 4.00,
+      "image": "https://i.ibb.co/bQcbZdH/caramel-macchiato.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Iced Coffee",
+      "description": "Chilled coffee served over ice cubes, often sweetened and flavored.",
+      "price": 3.00,
+      "image": "https://i.ibb.co/vzkbzsz/iced-coffee.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Flat White",
+      "description": "An espresso-based coffee originating from Australia, made with microfoam steamed milk.",
+      "price": 3.75,
+      "image": "https://i.ibb.co/8jtRBdj/flat-white.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Turkish Coffee",
+      "description": "A traditional method of brewing coffee that involves finely ground coffee beans boiled in a pot with water and sugar.",
+      "price": 3.50,
+      "image": "https://i.ibb.co/vmHn9sS/turkish-coffee.jpg"
+    }
+  ]
+  
